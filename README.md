@@ -20,7 +20,7 @@ Here is the `elimination_count_threshold` set to 2, because each columns is alre
 
 The transformed dataset features only 33 columns instead of 163. The 33 columns are less linearly dependant and therefore provide a smoother surface for searching a global optima. 
 
-### Original dataset:
+### Comparison:
 
 Original dataset                      |  Transformed dataset
 :------------------------------------:|:-------------------------:
